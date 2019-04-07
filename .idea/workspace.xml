@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="add88b09-fe76-4773-9910-fb69fdf7aa6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="vehicle-location-data-generator/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/vehicle-location-data-generater/target/" />
     <ignored path="$PROJECT_DIR$/vehicle-location-data-generator/target/" />
@@ -62,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/vehicle-location-data-generator/src/main/resources/kafka-producer.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="61" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="65" />
+              <caret line="2" column="65" lean-forward="true" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -143,13 +143,13 @@
         <option value="$PROJECT_DIR$/vehicle-location-data-generator/src/main/java/com/vehicletrafficmonitor/generator/encoder/VehicleLocationDataKafkaSerializer.java" />
         <option value="$PROJECT_DIR$/vehicle-location-data-generator/src/main/java/com/vehicletrafficmonitor/generator/serializer/VehicleLocationDataKafkaSerializer.java" />
         <option value="$PROJECT_DIR$/vehicle-location-data-generator/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/vehicle-location-data-generator/src/main/resources/kafka-producer.properties" />
         <option value="$PROJECT_DIR$/vehicle-location-data-generator/src/main/java/com/vehicletrafficmonitor/generator/producers/kafka/KafkaVehicleLocationDataProducer.java" />
         <option value="$PROJECT_DIR$/vehicle-location-data-generator/src/main/java/com/vehicletrafficmonitor/generator/producers/VehicleLocationDataProducer.java" />
         <option value="$PROJECT_DIR$/vehicle-location-data-generator/src/main/java/com/vehicletrafficmonitor/generator/producers/VehicleLocationDataProducerFactory.java" />
         <option value="$PROJECT_DIR$/vehicle-location-data-generator/src/main/java/com/vehicletrafficmonitor/generator/VehicleLocationDataGenerator.java" />
         <option value="$PROJECT_DIR$/vehicle-location-data-generator/pom.xml" />
         <option value="$PROJECT_DIR$/docker-compose.yaml" />
+        <option value="$PROJECT_DIR$/vehicle-location-data-generator/src/main/resources/kafka-producer.properties" />
       </list>
     </option>
   </component>
@@ -171,6 +171,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -197,45 +198,27 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="vehicletrafficmonitor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vehicletrafficmonitor" type="462c0819:PsiDirectoryNode" />
-              <item name="vehicle-location-data-generator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vehicletrafficmonitor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vehicletrafficmonitor" type="462c0819:PsiDirectoryNode" />
-              <item name="vehicle-location-data-generator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="generator" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowDocker.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554626100727" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554626788673" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.11.4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/vehicle-location-data-generator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vehicle-location-data-generator/target" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="/usr/bin" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -344,12 +327,13 @@
       <option name="presentableId" value="Default" />
       <updated>1554024811900</updated>
       <workItem from="1554024815982" duration="16426000" />
-      <workItem from="1554625662527" duration="316000" />
+      <workItem from="1554625662527" duration="790000" />
+      <workItem from="1554626492774" duration="293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16742000" />
+    <option name="totallyTimeSpent" value="17509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
@@ -363,7 +347,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -535,7 +519,7 @@
     <entry file="file://$PROJECT_DIR$/vehicle-location-data-generator/src/main/resources/kafka-producer.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="61" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="65" />
+          <caret line="2" column="65" lean-forward="true" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -596,7 +580,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -616,6 +599,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
