@@ -9,8 +9,5 @@
         <module name="vehicle-location-data-generator" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="vehiclelocationdatagenerator" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
