@@ -1,7 +1,0 @@
-com/vehicletrafficmonitor/generator/model/VehicleLocationData.class
-com/vehicletrafficmonitor/generator/producers/kafka/KafkaVehicleLocationDataProducer.class
-com/vehicletrafficmonitor/generator/producers/kafka/serializer/VehicleLocationDataKafkaSerializer.class
-com/vehicletrafficmonitor/generator/producers/VehicleLocationDataProducerFactory$ProducerClient.class
-com/vehicletrafficmonitor/generator/VehicleLocationDataGenerator.class
-com/vehicletrafficmonitor/generator/producers/VehicleLocationDataProducerFactory.class
-com/vehicletrafficmonitor/generator/producers/VehicleLocationDataProducer.class

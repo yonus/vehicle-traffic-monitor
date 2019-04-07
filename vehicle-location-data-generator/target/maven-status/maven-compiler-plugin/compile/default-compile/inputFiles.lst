@@ -1,6 +1,0 @@
-/home/pasa/MY_Developments/java/vehicletrafficmonitor/vehicle-location-data-generator/src/main/java/com/vehicletrafficmonitor/generator/producers/kafka/KafkaVehicleLocationDataProducer.java
-/home/pasa/MY_Developments/java/vehicletrafficmonitor/vehicle-location-data-generator/src/main/java/com/vehicletrafficmonitor/generator/producers/VehicleLocationDataProducerFactory.java
-/home/pasa/MY_Developments/java/vehicletrafficmonitor/vehicle-location-data-generator/src/main/java/com/vehicletrafficmonitor/generator/producers/VehicleLocationDataProducer.java
-/home/pasa/MY_Developments/java/vehicletrafficmonitor/vehicle-location-data-generator/src/main/java/com/vehicletrafficmonitor/generator/producers/kafka/serializer/VehicleLocationDataKafkaSerializer.java
-/home/pasa/MY_Developments/java/vehicletrafficmonitor/vehicle-location-data-generator/src/main/java/com/vehicletrafficmonitor/generator/model/VehicleLocationData.java
-/home/pasa/MY_Developments/java/vehicletrafficmonitor/vehicle-location-data-generator/src/main/java/com/vehicletrafficmonitor/generator/VehicleLocationDataGenerator.java
